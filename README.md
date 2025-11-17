@@ -4,4 +4,4 @@ Kelompok Duo A
 Ahmad Sopian
 Ananda Kartini
 
-![Alt Text]()
+![Alt Text](localhost_51963_.png)
